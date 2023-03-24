@@ -1179,7 +1179,7 @@
 
 .theme-dark .checkbox-1LuCGM[style*="border-color:"] {
     border-color: rgba(255, 255, 255, .8) !important;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg/1200px-YouTube_play_button_icon_%282013%E2%80%932017%29.svg.png);
+    background-image: url(https://cdn.pixabay.com/photo/2020/11/17/07/59/space-5751700_960_720.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -3666,7 +3666,7 @@
 }
 /***** Discord and BetterDiscord Settings *****/
 .accountProfileCard-lbN7n- {
-    background: linear-gradient(23deg, rgba(0,0,0,.79) 0%, rgba(0,0,0,.33) 100%), url(https://wallpapers.com/images/file/bright-red-youtube-logo-jrwq9yny4qg70c72.jpg);
+    background: linear-gradient(23deg, rgba(0,0,0,.79) 0%, rgba(0,0,0,.33) 100%), url(https://cdn.pixabay.com/photo/2020/11/17/07/59/space-5751700_960_720.jpg);
     background-size: cover;
 }
 
